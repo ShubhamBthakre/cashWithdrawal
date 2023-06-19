@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.denominations-item-container {
+  width: 45%;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 5px;
+}
+.denominations-button {
+  width: 100%;
+  font-size: 22px;
+  color: azure;
+  background-color: #382f5a;
+  border: 1px solid #d4d2db;
+}
